@@ -1,0 +1,9 @@
+contato_sucesso:
+  subject_heading: Customer service
+  email: teste@teste.com
+  order: 123
+  file: teste.txt
+  message: teste teste teste
+  mensagem: Your message has been successfully sent to our team.
+
+#AONDE DEFINO A MASSA DE DADOS

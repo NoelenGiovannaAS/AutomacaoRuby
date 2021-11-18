@@ -1,6 +1,7 @@
 #encoding:utf-8
 #language: pt
 
+#FEATURE
 @entrar_em_contato
 Funcionalidade: Entrar em contato 
     Como um usuário 
